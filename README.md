@@ -5,7 +5,8 @@ Machine learning and artificial intelligence is going to have a dramatic impact 
 
 We will be using some common Python libraries, such as pandas, numpy, and matplotlib. Furthermore, for the machine learning side of this project, we will be using sklearn and keras. Import these libraries using the cell below to ensure you have them correctly installed.
 
-<h3>The dataset is available through the University of California, Irvine Machine learning repository. Here is the URL:</h3>
+<h3>The dataset is available through the University of California, Irvine Machine learning repository.</h3>
+  Here is the URL:
 
 http:////archive.ics.uci.edu/ml/datasets/Heart+Disease
 
